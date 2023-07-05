@@ -22,7 +22,7 @@ contract MyToken {
     string public tokenAbbrv="ET";
     uint public totalSupply=0;
     // mapping variable here
-    mapping (address=>uint) public balances;     //when you pass an address it will return the balance of the token that the address has
+    mapping (address=>uint) public balances;    
 
     // mint function
     function mint(address addr, uint values)public{
