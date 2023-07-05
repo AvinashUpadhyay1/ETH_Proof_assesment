@@ -1,4 +1,4 @@
-# Hello World
+# Solidity project
 
 This Solidity program is a simple contract that is used to mint, burn tokens and update their balance in the account.
 
